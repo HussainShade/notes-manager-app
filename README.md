@@ -24,7 +24,7 @@ The Personal Notes Manager application allows users to:
 
 - **Frontend:** React, Axios, CSS3, responsive design with animations
 - **Backend:** Node.js, Express.js, SQLite
-- **Deployment:** Render (backend) and local server (frontend)
+- **Deployment:** Render (backend) and Netlify (frontend)
 
 ## Setup Instructions
 
